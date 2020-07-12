@@ -2,7 +2,7 @@ gateway:
   ip: 192.168.4.11
  
 token:
-  secret: secret
+  secret: supersecuresecret
   exp_time: 86400
   
 custom:
